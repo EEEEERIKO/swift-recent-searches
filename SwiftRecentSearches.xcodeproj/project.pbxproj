@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E313F43E3081A683008AB066 /* Exceptions for "SwiftRecentSearches" folder in "SwiftRecentSearches" target */ = {
+		E313F4503081CAAD008AB066 /* Exceptions for "SwiftRecentSearches" folder in "SwiftRecentSearches" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		E313F42E3081A682008AB066 /* SwiftRecentSearches */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				E313F43E3081A683008AB066 /* Exceptions for "SwiftRecentSearches" folder in "SwiftRecentSearches" target */,
+				E313F4503081CAAD008AB066 /* Exceptions for "SwiftRecentSearches" folder in "SwiftRecentSearches" target */,
 			);
 			path = SwiftRecentSearches;
 			sourceTree = "<group>";
